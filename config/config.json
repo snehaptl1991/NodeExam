@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "deep70",
+    "database": "nodeExam",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,10 @@
+npx sequelize-cli model:generate --name Customer --attributes Name:string,Email:string,Password:string,PhoneNumber:integer,Gender:enum,Address:string,ProfileImage:string
+
+npx sequelize-cli db:migrate
+
+========================================================
+Remain List
+
+validation remain for blank email, two will be fire
+
+image url and password is shown properly in listing page
