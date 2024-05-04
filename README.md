@@ -1,13 +1,16 @@
 Following steps are there to setup this project
 
 You can setup the project from here
-https://github.com/snehaptl1991/node
-gh repo clone snehaptl1991/node
+https://github.com/snehaptl1991/NodeExam
+gh repo clone snehaptl1991/NodeExam
 
 To setup this project following modules are required
 express, express-validator, bcrypt, sequelize, multer, jsonwebtoken
 
 Create database "nodeExam" and then run "npx sequelize-cli db:migrate", It will generate the db in your system
+
+Need to setup your database details here
+config/config.json
 
 ==============================================================================
 
